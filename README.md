@@ -114,3 +114,8 @@ This allows deeper drill-down and customized analysis.
 * Transformed multi-source raw data into a structured analytical model
 
 The dashboard supports operational planning, marketing optimization, and strategic expansion decisions.
+
+## 6. Screenshots / Demos
+📊 Dashboard Overview
+
+Below is a snapshot of the Retail Sales Analytics Dashboard showcasing key performance indicators, monthly trends, and geographic analysis.
