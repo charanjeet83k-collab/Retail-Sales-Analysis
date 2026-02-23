@@ -119,5 +119,4 @@ The dashboard supports operational planning, marketing optimization, and strateg
 📊 Dashboard Overview
 
 Below is a snapshot of the Retail Sales Analytics Dashboard showcasing key performance indicators, monthly trends, and geographic analysis.
-![Alt text](https://github.com/charanjeet83k-collab/Retail-Sales-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
 ![Dashboard preview](https://github.com/charanjeet83k-collab/Retail-Sales-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
