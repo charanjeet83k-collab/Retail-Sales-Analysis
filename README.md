@@ -36,7 +36,7 @@ The data was cleaned, missing values were handled, and relationships were proper
 
 ## 5. Features / Highlights
 
-###  Business Problem
+###  🔹Business Problem
 
 Retail organizations generate large volumes of transactional data across multiple regions and customer segments. However, raw data alone makes it difficult to quickly answer questions such as:
 
