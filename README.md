@@ -22,19 +22,19 @@ The dashboard allows users to monitor important business metrics and explore per
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop -
+**📊 Power BI Desktop** -
 Used for building the dashboard, designing visualizations, and creating interactive reports.
 
-🔄 Power Query -
+**🔄 Power Query**-
 Used for data cleaning, transformation, and preparing datasets for analysis.
 
-🧠 DAX (Data Analysis Expressions) -
+**🧠 DAX (Data Analysis Expressions)** -
 Used to create calculated columns and measures such as Net Units, OrderDayOfWeek, and OrderWeekStart to enable deeper analysis.
 
-🔗 Data Modeling -
+**🔗 Data Modeling** -
 Relationships were created between multiple tables to build a structured data model for accurate analysis.
 
-🗂 GitHub -
+**🗂 GitHub** -
 Used to host and document the project as part of a professional data analytics portfolio.
 
 
@@ -42,18 +42,18 @@ Used to host and document the project as part of a professional data analytics p
 
 The dataset used in this project contains retail sales transaction data along with supporting datasets that help analyze product performance and geographic distribution.
 
-Tables Used
+Tables Used:
 
-**Sales Raw**
+**Sales Raw** -
 Contains transaction-level data including orders, quantities sold, cancellations, and revenue information.
 
-**Product Master**
+**Product Master** -
 Provides product categories and product group information used to analyze product demand.
 
-**City Tier Data**
+**City Tier Data** -
 Classifies cities into Metro, Tier 1 & 2, and Tier 3 segments to analyze market performance across different city levels.
 
-**Pincode Geography**
+**Pincode Geography** -
 Maps pincodes to geographic zones such as East, West, North, and South, enabling location-based sales analysis.
 
 These datasets were cleaned, structured, and connected using relationships to build a unified analytical data model.
@@ -61,7 +61,7 @@ These datasets were cleaned, structured, and connected using relationships to bu
 
 ##  Key Dashboard Features
 
-📊 KPI Overview
+**📊 KPI Overview** 
 
 The dashboard highlights important business metrics that provide a quick snapshot of overall performance:
 
@@ -73,7 +73,7 @@ The dashboard highlights important business metrics that provide a quick snapsho
 
 These KPIs help stakeholders quickly understand the overall sales performance of the business.
 
-📈 Sales Trend Analysis
+**📈 Sales Trend Analysis**
 
 The dashboard includes line charts that analyze monthly trends in:
 
@@ -83,11 +83,11 @@ The dashboard includes line charts that analyze monthly trends in:
 
 This analysis helps identify sales growth patterns, seasonal demand, and fluctuations in customer activity over time.
 
-💰 Revenue Analysis
+**💰 Revenue Analysis**
 
 A time-series visualization tracks revenue trends over different time periods, including monthly and weekly performance. This helps identify sales peaks, slow periods, and overall revenue patterns.
 
-🌍 Geographic Analysis
+**🌍 Geographic Analysis**
 
 The dashboard allows comparison of sales performance across:
 
@@ -96,7 +96,7 @@ The dashboard allows comparison of sales performance across:
 
 This helps businesses understand regional demand distribution and market performance across different locations.
 
-🎛 Interactive Filters
+**🎛 Interactive Filters**
 
 Users can dynamically filter the dashboard by:
 
