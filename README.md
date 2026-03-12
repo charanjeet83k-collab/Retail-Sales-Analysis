@@ -22,19 +22,19 @@ The dashboard allows users to monitor important business metrics and explore per
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop
+📊 Power BI Desktop -
 Used for building the dashboard, designing visualizations, and creating interactive reports.
 
-🔄 Power Query
+🔄 Power Query -
 Used for data cleaning, transformation, and preparing datasets for analysis.
 
-🧠 DAX (Data Analysis Expressions)
+🧠 DAX (Data Analysis Expressions) -
 Used to create calculated columns and measures such as Net Units, OrderDayOfWeek, and OrderWeekStart to enable deeper analysis.
 
-🔗 Data Modeling
+🔗 Data Modeling -
 Relationships were created between multiple tables to build a structured data model for accurate analysis.
 
-🗂 GitHub
+🗂 GitHub -
 Used to host and document the project as part of a professional data analytics portfolio.
 
 
